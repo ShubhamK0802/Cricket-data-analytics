@@ -16,18 +16,3 @@ Steps involved in the project:
 📊Building the Dashboard in Power BI
 Screenshots of the Dashboard:
 power_hitters_and_openers
-
-hover_effect
-
-individual_stats
-
-anchors
-
-finishers
-
-all_rounders
-
-fast_bowlers
-
-pick_final_11
-
